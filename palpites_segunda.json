@@ -1,0 +1,125 @@
+[
+    {
+        "jogo": "West Ham x Brentford",
+        "horario": "16:00",
+        "palpites": [
+            { "mercado": "+1.5 Gols", "odd": 1.28, "porcentagem": 80 },
+            { "mercado": "Casa ou Empate", "odd": 1.40, "porcentagem": 70 },
+            { "mercado": "Ambos Marcam", "odd": 1.66, "porcentagem": 60 },
+            { "mercado": "+0.5 Gol Casa", "odd": 1.28, "porcentagem": 85 }
+        ]
+    },
+    {
+        "jogo": "Alavés x Valência",
+        "horario": "16:00",
+        "palpites": [
+            { "mercado": "-3.5 Gols", "odd": 1.22, "porcentagem": 79 },
+            { "mercado": "Dupla Chance Casa", "odd": 1.28, "porcentagem": 70 },
+            { "mercado": "Ambos Marcam", "odd": 2.00, "porcentagem": 50 },
+            { "mercado": "+0.5 Gol Casa", "odd": 1.33, "porcentagem": 76 },
+            { "mercado": "Vitória Casa", "odd": 2.25, "porcentagem": 45 }
+        ]
+    },
+    {
+        "jogo": "Cremonese x Udinese",
+        "horario": "16:00",
+        "palpites": [
+            { "mercado": "-3.5 Gols", "odd": 1.22, "porcentagem": 79 },
+            { "mercado": "+0.5 Gol Fora", "odd": 1.30, "porcentagem": 70 },
+            { "mercado": "+0.5 Gol Casa", "odd": 1.44, "porcentagem": 60 },
+            { "mercado": "Ambos Marcam", "odd": 1.95, "porcentagem": 37 },
+            { "mercado": "Dupla Chance Casa", "odd": 1.53, "porcentagem": 71 },
+            { "mercado": "Dupla Chance Fora", "odd": 1.36, "porcentagem": 57 },
+            { "mercado": "-1.5 Gols HT", "odd": 1.33, "porcentagem": 75 }
+        ]
+    },
+    {
+        "jogo": "Al Ahli x Al Gharafa",
+        "horario": "15:15",
+        "palpites": [
+            { "mercado": "Vitória Casa", "odd": 1.18, "porcentagem": 85 },
+            { "mercado": "+2.5 Gols", "odd": 1.33, "porcentagem": 70 },
+            { "mercado": "+0.5 Gol HT", "odd": 1.80, "porcentagem": 80 },
+            { "mercado": "+1.5 Gol Casa", "odd": 1.22, "porcentagem": 70 }
+        ]
+    },
+    {
+        "jogo": "Santos x Vitória",
+        "horario": "21:30",
+        "palpites": [
+            { "mercado": "1X", "odd": 1.11, "porcentagem": 95 },
+            { "mercado": "Vitória Casa", "odd": 1.60, "porcentagem": 65 },
+            { "mercado": "-1.5 Gols HT", "odd": 1.36, "porcentagem": 50 },
+            { "mercado": "+0.5 Gol Casa", "odd": 1.16, "porcentagem": 93 }
+        ]
+    },
+    {
+        "jogo": "Al Sharjah x Tractor Sazi",
+        "horario": "13:00",
+        "palpites": [
+            { "mercado": "Dupla Chance Casa", "odd": 1.22, "porcentagem": 80 },
+            { "mercado": "Vitória Casa", "odd": 1.95, "porcentagem": 43 },
+            { "mercado": "+0.5 Gol HT", "odd": 1.44, "porcentagem": 58 },
+            { "mercado": "+1.5 Gols Casa", "odd": 2.10, "porcentagem": 30 },
+            { "mercado": "+0.5 Gol Casa", "odd": 1.22, "porcentagem": 85 }
+        ]
+    },
+    {
+        "jogo": "Al Shorta x Al Ittihad",
+        "horario": "13:00",
+        "palpites": [
+            { "mercado": "Dupla Chance Fora", "odd": 1.18, "porcentagem": 70 },
+            { "mercado": "Vitória Fora", "odd": 1.80, "porcentagem": 50 },
+            { "mercado": "Ambos Marcam", "odd": 1.72, "porcentagem": 65 },
+            { "mercado": "+2.5 Gols", "odd": 1.85, "porcentagem": 55 },
+            { "mercado": "+0.5 Gol HT", "odd": 1.36, "porcentagem": 75 },
+            { "mercado": "+0.5 Gol Fora", "odd": 1.16, "porcentagem": 85 }
+        ]
+    },
+    {
+        "jogo": "Torpedo Moskva x Shinnik",
+        "horario": "13:30",
+        "palpites": [
+            { "mercado": "Dupla Chance Casa", "odd": 1.18, "porcentagem": 70 },
+            { "mercado": "-3.5 Gols", "odd": 1.15, "porcentagem": 85 },
+            { "mercado": "-1.5 Gols HT", "odd": 1.24, "porcentagem": 80 }
+        ]
+    },
+    {
+        "jogo": "Jong PSV x ADO Den Haag",
+        "horario": "15:00",
+        "palpites": [
+            { "mercado": "+1.5 Gols", "odd": 1.10, "porcentagem": 90 },
+            { "mercado": "Ambos Marcam", "odd": 1.50, "porcentagem": 68 },
+            { "mercado": "+2.5 Gols", "odd": 1.33, "porcentagem": 79 }
+        ]
+    },
+    {
+        "jogo": "Athletic Carp x Ascoli",
+        "horario": "15:30",
+        "palpites": [
+            { "mercado": "Dupla Chance Fora", "odd": 1.22, "porcentagem": 88 },
+            { "mercado": "Vitória Fora", "odd": 2.00, "porcentagem": 60 },
+            { "mercado": "+0.5 Gol Fora", "odd": 1.28, "porcentagem": 75 }
+        ]
+    },
+    {
+        "jogo": "Tigre x Barracas",
+        "horario": "19:00",
+        "palpites": [
+            { "mercado": "-3.5 Gols", "odd": 1.11, "porcentagem": 85 },
+            { "mercado": "Dupla Chance Casa", "odd": 1.20, "porcentagem": 75 },
+            { "mercado": "-1.5 Gols HT", "odd": 1.22, "porcentagem": 72 }
+        ]
+    },
+    {
+        "jogo": "La Equidad x Tolima",
+        "horario": "19:00",
+        "palpites": [
+            { "mercado": "-3.5 Gols", "odd": 1.18, "porcentagem": 78 },
+            { "mercado": "+0.5 Gols Fora", "odd": 1.25, "porcentagem": 70 },
+            { "mercado": "Vitória Fora", "odd": 1.83, "porcentagem": 55 },
+            { "mercado": "Dupla Chance Fora", "odd": 1.18, "porcentagem": 76 }
+        ]
+    }
+]

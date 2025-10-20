@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Palpites</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Gerador de Palpites</h1>
+    <section>
+        <label for="numJogos">Quantidade de Jogos:</label>
+        <input type="number" id="numJogos" min="1" value="5">
+        
+        <label for="oddMin">Odd Mínima:</label>
+        <input type="number" id="oddMin" step="0.01" value="1.5">
+        
+        <label for="oddMax">Odd Máxima:</label>
+        <input type="number" id="oddMax" step="0.01" value="3.0">
+
+        <label for="chanceGreen">Chance de Green (%):</label>
+        <input type="number" id="chanceGreen" min="1" max="100" value="70">
+
+        <button id="showFilters">Mostrar Filtros</button>
+        <div id="filters" style="display:none;">
+            <h2>Filtros</h2>
+            <label for="esportes">Esportes:</label>
+            <select id="esportes" multiple>
+                <option value="futebol">Futebol</option>
+                <option value="tenis">Tênis</option>
+                <option value="basquete">Basquete</option>
+            </select>
+
+            <label for="mercados">Mercados:</label>
+            <select id="mercados" multiple>
+                <option value="ambas">Ambas Marcam</option>
+                <option value="over25">Mais de 2.5 Gols</option>
+                <option value="under25">Menos de 2.5 Gols</option>
+            </select>
+
+            <button id="hideFilters">Esconder Filtros</button>
+        </div>
+
+        <button id="generate">Gerar Palpites</button>
+    </section>
+
+    <section id="output">
+        <h2>Palpites Gerados:</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Jogo</th>
+                    <th>Esporte</th>
+                    <th>Mercado</th>
+                    <th>Odd</th>
+                    <th>Chance Green</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Gerado dinamicamente -->
+            </tbody>
+        </table>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
